@@ -10,6 +10,7 @@ LivePublication 📄 is an effort to integrate our computational workflows with 
 | [LivePublication webserver](https://github.com/LivePublication/LP_WebServer)                           | Webserver for LivePublication                                             |
 | [LivePublication CLI](https://github.com/LivePublication/LP_Parser)                                    | Command Line Interface for LivePublication                                |
 | [Orchestration Server](https://github.com/LivePublication/orchestration_server)                        | Server for orchestrating LivePublication processes                        |
+| [Globus-gladier prospective provenance workspace](https://github.com/LivePublication/gladier-globus-orchestration/tree/main) | A simple gladier example for generating the Workflow Execution Plan - which is then embedded as prospective provenance within a ProvenanceRun crate |
 
 ### Other repositories related to case studies which may no longer be operational:
 
